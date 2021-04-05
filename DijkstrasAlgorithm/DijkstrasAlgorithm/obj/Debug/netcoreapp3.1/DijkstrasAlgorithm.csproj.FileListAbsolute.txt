@@ -1,0 +1,11 @@
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.exe
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.deps.json
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.runtimeconfig.json
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.runtimeconfig.dev.json
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\bin\Debug\netcoreapp3.1\DijkstrasAlgorithm.pdb
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.AssemblyInfo.cs
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Dijkstras-Algorithm\DijkstrasAlgorithm\DijkstrasAlgorithm\obj\Debug\netcoreapp3.1\DijkstrasAlgorithm.pdb
